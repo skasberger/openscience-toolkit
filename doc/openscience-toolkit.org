@@ -76,9 +76,10 @@ deletes all files ever created by install.sh or update.sh
 ** CONFIGS
 - add the sourcing automatically to the existing configs
 ** EXTERNAL PACKAGES
-*** grml zsh config
-*** bookmarks2mediawiki
-*** templates by stefan kasberger
+*** zsh lovers by grml
+*** bookmarks2mediawiki by skasberger
+*** templates by skasberger
+*** templates by openscienceASAP
 *** licenses by okfn
 *** gitignore by github
 ** DOCUMENTATION
@@ -151,4 +152,5 @@ ONE SENTENCE TO DESCRIBE
 ONE SENTENCE TO DESCRIBE
 **** DOCUMENTATION
 ** 0.10 - DOCUMENTATION
+- how to use shell effectively
 ** OTHER

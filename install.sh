@@ -7,21 +7,21 @@
 #
 
 # create directories
-mkdir ~/openscience-scripts/
-mkdir ~/openscience-scripts/scripts
-mkdir ~/openscience-scripts/scripts/install
-mkdir ~/openscience-scripts/scripts/git-hooks
-mkdir ~/openscience-scripts/configs
-mkdir ~/openscience-scripts/configs/git
-mkdir ~/openscience-scripts/configs/shell
-mkdir ~/openscience-scripts/templates
-mkdir ~/openscience-scripts/doc
-mkdir ~/openscience-scripts/usr
-mkdir ~/openscience-scripts/ext
+mkdir ~/openscience-toolkit/
+mkdir ~/openscience-toolkit/scripts
+mkdir ~/openscience-toolkit/scripts/install
+mkdir ~/openscience-toolkit/scripts/git-hooks
+mkdir ~/openscience-toolkit/configs
+mkdir ~/openscience-toolkit/configs/git
+mkdir ~/openscience-toolkit/configs/shell
+mkdir ~/openscience-toolkit/templates
+mkdir ~/openscience-toolkit/doc
+mkdir ~/openscience-toolkit/usr
+mkdir ~/openscience-toolkit/ext
 
 # copy deploy scripts
-cp install.sh ~/openscience-scripts/scripts/install
-cp uninstall.sh ~/openscience-scripts/scripts/install
+cp install.sh ~/openscience-toolkit/scripts/install
+cp uninstall.sh ~/openscience-toolkit/scripts/install
 
 # copy zsh config
 
@@ -30,4 +30,4 @@ cp uninstall.sh ~/openscience-scripts/scripts/install
 
 
 # copy external packages
-cp -R ext/ ~/openscience-scripts
+cp -R ext/ ~/openscience-toolkit
