@@ -1,0 +1,15 @@
+This package was debianized by Michael Prokop <mika@grml.org> on
+Wed, 18 Aug 2004 12:19:12 +0200.
+
+It was downloaded from http://grml.org/zsh/
+
+Upstream Author: Michael Prokop <mika@grml.org>
+
+Copyright:
+
+   Debian packaging is copyright (c) 2004++ by Michael Prokop.
+
+   The files written by the grml-team are available under
+   the GPL license version 2. For license information regarding
+   files not deriving from the grml project please take a look
+   at the affected file itself.

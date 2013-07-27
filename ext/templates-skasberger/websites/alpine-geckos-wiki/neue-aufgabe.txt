@@ -1,0 +1,31 @@
+<!-- Unbekannte Parameter in der Infobox leer oder auskommentiert lassen! -->
+<!-- verwendetes Template => Vorlage:Infobox Aufgabe Lehrveranstaltung -->
+{{Infobox Aufgabe Lehrveranstaltung
+| Status = <!--in progress / not verified / verified -->
+| Lehrveranstaltung = <!-- [[wikilink]] -->
+| Lizenz Software = <!-- [[wikilink]] -->
+| Lizenz Content = <!-- [[wikilink]] -->
+| Website = <!-- [url shorturl] -->
+}}
+<kurze Beschreibung der kleinen Arbeit>
+ 
+== Aufgabe == 
+<!-- Um sich die theoretischen Grundlagen anzueignen, ist es zu empfehlen folgende Wikipedia Seiten soweit wie nötig durchzugehen: -->
+ 
+== Theorie == 
+ 
+== Umsetzung ==
+<!-- Angabe der Software -->
+ 
+=== Aufgabe a ===
+ 
+=== Aufgabe b ===
+ 
+== Inhalt ==
+Teilnehmer_innen: 
+ 
+Start: 
+ 
+ 
+[[Category:Open Science Courses]]
+[[Category:Lehrveranstaltungen]]

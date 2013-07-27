@@ -1,0 +1,197 @@
+<Composer title="Druckzusammenstellung 17" visible="1">
+ <ComposerLabel valign="32" labelText="NAME, YY" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="70.4706" x="73" y="261.902" rotation="0" height="6.9" frame="false" outlineWidth="0" zValue="14" lastValidViewScaleFactor="3.31208" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="VERWEIS" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="56.0463" x="145.523" y="261.6" rotation="0" height="6.9" frame="false" outlineWidth="0" zValue="16" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="UrheberIn:" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,75,0,1,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="55.4325" x="73" y="256" rotation="0" height="7.3656" frame="false" outlineWidth="0" zValue="23" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Creative Commons CC BY-SA&#xa;https://creativecommons.org/licenses/by-sa/3.0/" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="96.69" x="73" y="274.361" rotation="0" height="13.9451" frame="false" outlineWidth="0" zValue="17" lastValidViewScaleFactor="3.11745" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Lizenz:" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,75,0,1,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="16.5726" x="73" y="269.21" rotation="0" height="7.6725" frame="false" outlineWidth="0" zValue="26" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="UEBERSCHRIFT 1" halign="1" margin="2">
+  <LabelFont description="Ubuntu,24,-1,5,75,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="197.054" x="5.80193" y="6.72838" rotation="0" height="34.0893" frame="false" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Beschreibung:" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,75,0,1,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="30.69" x="73" y="226.878" rotation="0" height="7.3656" frame="false" outlineWidth="0" zValue="22" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="Datenquelle:" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,75,0,1,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="52.7549" x="145.523" y="256" rotation="0" height="8.52449" frame="false" outlineWidth="0" zValue="24" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="UEBERSCHRIFT 2" halign="1" margin="1">
+  <LabelFont description="Ubuntu,14,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="131.13" x="6.85005" y="27.8906" rotation="0" height="8.64233" frame="false" outlineWidth="0" zValue="15" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerLabel valign="32" labelText="BESCHREIBUNGS TEXT" halign="1" margin="1">
+  <LabelFont description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor red="0" blue="0" green="0"/>
+  <ComposerItem width="125.365" x="73" y="232.937" rotation="0" height="24.3031" frame="false" outlineWidth="0" zValue="20" lastValidViewScaleFactor="3.17114" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLabel>
+ <ComposerMap keepLayerSet="true" id="0" previewMode="Render" drawCanvasItems="true">
+  <Extent ymin="343802" xmin="549126" ymax="363687" xmax="570598"/>
+  <LayerSet>
+   <Layer>bezirksgrenzen20130520153853210</Layer>
+  </LayerSet>
+  <Grid gridStyle="0" crossLength="3" penColorRed="0" penColorBlue="0" intervalX="0" offsetX="0" intervalY="0" offsetY="0" show="0" penWidth="0" penColorGreen="0">
+   <Annotation direction="0" precision="3" position="1" frameDistance="1" show="0" font="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+  </Grid>
+  <ComposerItem width="195" x="7.5" y="40.0632" rotation="0" height="180.587" frame="true" outlineWidth="1" zValue="3" lastValidViewScaleFactor="3.11745" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="255" green="170"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerMap>
+ <ComposerScaleBar segmentMillimeters="18.1632" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="3" alignment="0" labelBarSpace="2" outlineWidth="1" numSegmentsLeft="0" style="Single Box" unitLabel="m" font="Ubuntu,12,-1,5,75,1,0,0,0,0" mapId="0" boxContentSpace="2" numUnitsPerSegment="2000">
+  <BrushColor red="0" blue="0" green="0"/>
+  <ComposerItem width="52.8264" x="9.75992" y="204.936" rotation="0" height="13" frame="false" outlineWidth="0" zValue="9" lastValidViewScaleFactor="3.11745" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerScaleBar>
+ <ComposerShape shapeType="1" shapeWidth="131.299" outlineWidth="0" transparentFill="1" shapeHeight="64.8">
+  <OutlineColor alpha="255" red="0" blue="255" green="170"/>
+  <FillColor alpha="255" red="0" blue="0" green="0"/>
+  <ComposerItem width="131.299" x="71.2008" y="224.7" rotation="0" height="64.8" frame="true" outlineWidth="1" zValue="1" lastValidViewScaleFactor="3.25839" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="255" green="170"/>
+   <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerShape>
+ <ComposerPicture pictureWidth="30.3154" file="/myData/mediadesign/raw/Cretive Commons/medium/by-sa.png" pictureHeight="10.9013" mapId="-1">
+  <ComposerItem width="30.3154" x="167.553" y="274.114" rotation="0" height="10.9013" frame="true" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="3.11745" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="0" green="0"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerPicture>
+ <ComposerLegend symbolWidth="11" title="Legende" boxSpace="4" titleFont="Ubuntu,16,-1,5,75,0,1,0,0,0" map="0" groupFont="Ubuntu,14,-1,5,50,0,0,0,0,0" layerFont="Ubuntu,12,-1,5,50,0,0,0,0,0" groupSpace="2" symbolSpace="2" symbolHeight="5" layerSpace="2" iconLabelSpace="3" wrapChar="" itemFont="Ubuntu,12,-1,5,50,0,0,0,0,0">
+  <Model autoUpdate="1">
+   <LayerItem layerId="bezirksgrenzen20130520153853210" text="Stimmenanteil [%]">
+    <VectorClassificationItemNg text="25.4950 - 30.2762">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="250,250,250,255"/>
+        <prop k="color_border" v="255,170,127,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.7"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+    <VectorClassificationItemNg text="30.2762 - 30.9175">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="188,188,188,255"/>
+        <prop k="color_border" v="255,170,127,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.7"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+    <VectorClassificationItemNg text="30.9175 - 34.7416">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="127,127,127,255"/>
+        <prop k="color_border" v="255,170,127,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.7"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+    <VectorClassificationItemNg text="34.7416 - 39.1686">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="66,66,66,255"/>
+        <prop k="color_border" v="255,170,127,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.7"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+    <VectorClassificationItemNg text="39.1686 - 45.9681">
+     <symbols>
+      <symbol outputUnit="MM" alpha="1" type="fill" name="classificationSymbol">
+       <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="color" v="5,5,5,255"/>
+        <prop k="color_border" v="255,170,127,255"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="style" v="solid"/>
+        <prop k="style_border" v="solid"/>
+        <prop k="width_border" v="0.7"/>
+       </layer>
+      </symbol>
+     </symbols>
+    </VectorClassificationItemNg>
+   </LayerItem>
+  </Model>
+  <ComposerItem width="59.1952" x="7.5" y="224.7" rotation="0" height="64.8" frame="true" outlineWidth="1" zValue="7" lastValidViewScaleFactor="6.34228" id="" positionLock="false">
+   <FrameColor alpha="255" red="0" blue="255" green="170"/>
+   <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+  </ComposerItem>
+ </ComposerLegend>
+ <Composition printResolution="300" paperWidth="210" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" paperHeight="297" printAsRaster="0"/>
+</Composer>

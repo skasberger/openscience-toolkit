@@ -26,11 +26,6 @@ cd openscience-scripts-master
 sh install.sh
 ```
 
-Update all exteranl files and packages:
-```shell
-sh ~/.openscience-scripts/shell/update.sh
-```
-
 Uninstall:
 ```shell
 sh ~/.openscience-scripts/shell/uninstall.sh

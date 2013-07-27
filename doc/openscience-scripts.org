@@ -86,6 +86,8 @@ deletes all files ever created by install.sh or update.sh
 ** 0.1 - BASICS
 # tasks
 - aliases for install.sh, update.sh, uninstall.sh
+- change from wget to fixed in package for use => i maintain everything
+- write a log file for every created file => this will be used for deletion (and go recursively over empty folders)
 **** SUMMARY
 **** REQUIREMENTS
 # description
@@ -101,7 +103,8 @@ ONE SENTENCE TO DESCRIBE
 **** DOCUMENTATION
 ** 0.3 - openscienceASAP scripts
 # tasks
-- 
+- add .gitignore for specific software by alias
+- add sepcific license by alias
 **** SUMMARY
 **** REQUIREMENTS
 # description

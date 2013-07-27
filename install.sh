@@ -21,7 +21,6 @@ mkdir ~/openscience-scripts/ext
 
 # copy deploy scripts
 cp install.sh ~/openscience-scripts/scripts/install
-cp update.sh ~/openscience-scripts/scripts/install
 cp uninstall.sh ~/openscience-scripts/scripts/install
 
 # copy zsh config
@@ -30,7 +29,5 @@ cp uninstall.sh ~/openscience-scripts/scripts/install
 # copy git config
 
 
-# download all actual external files
-cd ~/.openscience-scripts/
-sh update.sh
-
+# copy external packages
+cp -R ext/ ~/openscience-scripts

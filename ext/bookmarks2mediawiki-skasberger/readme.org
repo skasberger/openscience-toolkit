@@ -1,0 +1,25 @@
+
+Description
+1) check if actual line is a
+   - <DT>: a folder or a link will be stated by this tag
+   - <DL>: opens a list assigning a folder
+   - </DL>: closes a list assigning a folder
+2) 
+
+# HTML tags
+
+
+# todo
+- comments 
+- flussdiagramm
+- shell script
+- org mode als doku für github?
+
+
+
+# Quality Assurance
+- count of links is exact
+- tested first 10 links
+- tested last line
+- tested with folders
+
