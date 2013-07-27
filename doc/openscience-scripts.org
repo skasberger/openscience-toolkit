@@ -1,0 +1,151 @@
+* TODO
+# research
+
+# ideas
+
+** FINISH
+* REQUIREMENTS VERSION 1
+
+The openscienceASAP workflow is installed by default.
+Everything will be downloaded, copied and activated by install.sh!
+The package works together with all files and external packages. no seperated installation.
+** GENERAL
+Language: English
+*** AUDIENCE
+- Scientists
+- Citizens
+- Journalists
+- Students
+- Alumnis
+- Communities: Open Data, Open Access, Open Science, Open Source,
+Pre-existing knowledge and skillz: used to work with shell/zsh, git+github and other open source tools
+Age: all ages
+Geography: international
+** SCRIPTS
+- define aliases for the shell for common actions
+*** Deployment
+# install.sh
+creates folder inside home and stores internal and external files and packages in it. 
+calls update
+# update.sh
+downloads external packages and files and stores it inside .openscience-scripts. 
+overwrites existing files. 
+can be used as an update.
+# uninstall.sh
+deletes all files ever created by install.sh or update.sh
+
+*** File Convertion
+- doc2pdf
+- doc2odt
+- odt2doc
+- odt2pdf
+- xls2ods
+- xls2csv
+- csv2xls
+- csv2ods
+- ods2csv
+- ods2pdf
+- markdown2html
+- html2markdown
+- svg2png
+- svg2pdf
+- svg2jpg
+- png2pdf
+- jpg2pdf
+- pdf2svg
+*** openscienceASAP
+**** create project repo
+- create notes.txt in root folder and add to gitignore file
+- create gitignore file
+**** create project -> software repo
+- inform via shell to structure first, before start to code
+- create notes.txt in root folder and add to gitignore file
+- create gitignore file
+- pass over the programming language and licenses
+**** create course repo
+- create notes.txt in root folder and add to gitignore file
+- create gitignore file
+**** create science repo
+- create notes.txt in root folder and add to gitignore file
+- create gitignore file
+*** git hooks
+- inform on "todo actions" before commit: check documentation, metadata, license, etc
+** TEMPLATES
+*** licenses
+*** openscienceASAP
+** CONFIGS
+- add the sourcing automatically to the existing configs
+** EXTERNAL PACKAGES
+*** grml zsh config
+*** bookmarks2mediawiki
+*** templates by stefan kasberger
+*** licenses by okfn
+*** gitignore by github
+** DOCUMENTATION
+* IMPLEMENTATION VERSION 1
+** 0.1 - BASICS
+# tasks
+- aliases for install.sh, update.sh, uninstall.sh
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.2 - Configs
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.3 - openscienceASAP scripts
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.4 - convertion functions
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.5 - git hooks
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.x - ADVANCED
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.x - TITLE
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.x - TITLE
+# tasks
+- 
+**** SUMMARY
+**** REQUIREMENTS
+# description
+ONE SENTENCE TO DESCRIBE
+**** DOCUMENTATION
+** 0.10 - DOCUMENTATION
+** OTHER
