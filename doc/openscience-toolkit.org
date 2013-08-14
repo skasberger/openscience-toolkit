@@ -27,32 +27,44 @@ Geography: international
 # install.sh
 creates folder inside home and stores internal and external files and packages in it. 
 calls update
+user defined installation directory
+
 # update.sh
 downloads external packages and files and stores it inside .openscience-scripts. 
 overwrites existing files. 
 can be used as an update.
+
 # uninstall.sh
 deletes all files ever created by install.sh or update.sh
 
 *** File Convertion
 - doc2pdf
 - doc2odt
-- odt2doc
+- odt2docx
 - odt2pdf
 - xls2ods
 - xls2csv
-- csv2xls
+- csv2xlsx
 - csv2ods
 - ods2csv
 - ods2pdf
+- opd2pdf
+- odp2bwodp
+- odp2pptx
 - markdown2html
+- markdown2mediawiki
 - html2markdown
+- html2mediawiki
+- mediawiki2markdown
+- mediawiki2html
 - svg2png
 - svg2pdf
 - svg2jpg
 - png2pdf
 - jpg2pdf
 - pdf2svg
+- latex2pdf
+- latex2html
 *** openscienceASAP
 **** create project repo
 - create notes.txt in root folder and add to gitignore file
@@ -70,11 +82,33 @@ deletes all files ever created by install.sh or update.sh
 - create gitignore file
 *** git hooks
 - inform on "todo actions" before commit: check documentation, metadata, license, etc
+- clean up directory before commit
+*** Licenses
+copy the licenses to current folder and add author information
+alias: SHORTNAME='FUNCTION'
+call: SHORTNAME ARG1 ARG2 ...
+ARGS: name, year, version, language
+
+- cc-by
+- cc-by-sa
+- CC-BY-NC
+- MIT
+- LGPL
+- GPL v2
+- GPL v3
+- BSD2c
+- BSD4c
+- BSD
+- Apache
+*** automatization
+- clean up directory and subdirectories
 ** TEMPLATES
 *** licenses
 *** openscienceASAP
 ** CONFIGS
 - add the sourcing automatically to the existing configs
+- copy licenses
+- settings file: name, contact, website, twitter, repo, install directory, other settings, 
 ** EXTERNAL PACKAGES
 *** zsh lovers by grml
 *** bookmarks2mediawiki by skasberger
@@ -86,6 +120,10 @@ deletes all files ever created by install.sh or update.sh
 * IMPLEMENTATION VERSION 1
 ** 0.1 - BASICS
 # tasks
+- no unneccessary config files or databases: do as much as possible via nameconventions
+- add empty text file for git messages for every repository, where you can fill in the text you want to see for hooks
+- create a local config.json file with own metadata: name, license, description, etc, 
+- for metadata: http://data.okfn.org/standards https://github.com/okfn/data.okfn.org/blob/master/package.json
 - aliases for install.sh, update.sh, uninstall.sh
 - change from wget to fixed in package for use => i maintain everything
 - write a log file for every created file => this will be used for deletion (and go recursively over empty folders)

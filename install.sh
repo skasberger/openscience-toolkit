@@ -22,6 +22,8 @@ mkdir ~/openscience-toolkit/ext
 # copy deploy scripts
 cp install.sh ~/openscience-toolkit/scripts/install
 cp uninstall.sh ~/openscience-toolkit/scripts/install
+cp update.sh ~/openscience-toolkit/scripts/install
+
 
 # copy zsh config
 

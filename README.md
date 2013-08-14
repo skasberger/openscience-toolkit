@@ -11,7 +11,7 @@ This toolkit tries to make open science, open (software) projects and open cours
 - Git: Hooks (with warning messages)
 - Easy installation
 
-**[Open Science Projekt](http://openscience.alpine-geckos.at/) functions**
+**Open Science Projekt functions**
 
 These functions are adapted to an open workflow used for open science, open source software development and open publishing as part of science, courses and projects on the [Open Science Projekt](http://openscience.alpine-geckos.at/). They are not restricted to it, so I think they are quite helpful for any workflow (especially, when you adopt the toolkit to your individuel workflow and needs). 
 - Configs: adapted zsh and git configs
@@ -19,7 +19,7 @@ These functions are adapted to an open workflow used for open science, open sour
 - Templates: github markdown, website
 - Git: specific git-hooks
 
-The toolkit works together with these 
+The toolkit works together with these
 
 **SOFTWARE AND PACKAGES**
 - [zsh](http://www.zsh.org/): advanced shell
@@ -50,18 +50,25 @@ Please look at their documentation sites for this.
 - [Libre Office](https://www.libreoffice.org/): Open Source Office Suite
 The installation of zsh is mandatory. If other packages are missing, the related functions will not work (properly).
 
-**Install toolkit**
+**Install**
 
 ```shell
-# download and extract repository
-wget https://github.com/openscienceASAP/openscience-scripts/archive/master.zip
+# download archive
+wget https://github.com/openscienceASAP/openscience-toolkit/archive/master.zip
 unzip master.zip
 
 # install
 cd openscience-toolkit-master
 sh install.sh
 ```
-**Uninstall toolkit**
+
+**Download External Packages**
+
+```shell
+sh fetch-ext.sh
+```
+
+**Uninstall**
 
 All files created by install will be deleted, not the custom ones.
 ```shell
@@ -76,7 +83,7 @@ sh ~/openscience-toolkit/shell/uninstall.sh
 #### Templates
 #### Configs
 
-### Open Science Project Functions
+### openscienceASAP Functions
 #### Git-Hooks
 #### Aliases
 #### Templates
